@@ -3,8 +3,8 @@ import time
 import os
 
 print ('\t\t\t ######################################')
-print ('\t\t\t ##                                  ##')
-print ('\t\t\t ##   YABUNA ✌️.                     ##')
+print ('\t\t\t ##   🔱Legion...Error...404🔱       ##')
+print ('\t\t\t ##         84.UNA PEDRO             ##')
 print ('\t\t\t ######################################')
 
 
